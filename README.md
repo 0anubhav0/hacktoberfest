@@ -2,7 +2,7 @@ This repository is created to celebrate a month long open source festival, Hackt
 
 ## Steps to follow as a contributor:
 
-1) Navigate to [hacktoberfest-contribute](https://github.com/0anubhav0/hacktoberfest) repo.
+1) Navigate to [hacktoberfest](https://github.com/0anubhav0/hacktoberfest) repo.
 2) Go to ISSUES tab.
 3) Look through the ISSUES and find the most suitable one.
 4) You will find FORK tab on top beside UNWATCH and STAR (this will help you in cloning the repo to your own profile).
