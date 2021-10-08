@@ -2,6 +2,8 @@ This repository is created to celebrate a month long open source festival, Hackt
 
 ## Steps to follow as a contributor:
 
+This repository is open to all. You can work on any listed issues and you can also submit your code on other problems if you wish. This repository is completely beginner friendly since I am a beginner too :)
+
 1) Navigate to [hacktoberfest](https://github.com/0anubhav0/hacktoberfest) repo.
 2) Go to ISSUES tab.
 3) Look through the ISSUES and find the most suitable one.
