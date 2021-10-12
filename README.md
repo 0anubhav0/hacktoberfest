@@ -19,6 +19,7 @@ This repository is open to all. You can work on any listed issues and you can al
 13) Now patiently wait for this PR to get merged.
 14) Keep checking if the owner of the repo has suggested you to make some changed so that it can be merged.
 15) Remember, if the PR is not merged, your submission will not be counted.
-16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
+16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review.
+17) The most important one, [share](https://github.com/0anubhav0/hacktoberfest) the repository with other coders, faila do repo.
 
 -hacktoberfest
