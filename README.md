@@ -1,5 +1,3 @@
-This repository is created to celebrate a month long open source festival, Hacktoberfest, 2021.
-
 ![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 This repository is open to all. You can work on any listed issues and you can also submit your code on other problems if you wish. This repository is completely beginner friendly since I am a beginner too :)
