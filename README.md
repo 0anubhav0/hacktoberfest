@@ -1,5 +1,9 @@
 This repository is created to celebrate a month long open source festival, Hacktoberfest, 2021.
 
+![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+
+### <img src="https://dwglogo.com/wp-content/uploads/2016/08/PayPal_Logo_Icon.png" height="40px" alt="PayPal" align="center"> LOVES open-source and we are excited to participate in [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)! 🎉🎉
+
 ## Steps to follow as a contributor:
 
 This repository is open to all. You can work on any listed issues and you can also submit your code on other problems if you wish. This repository is completely beginner friendly since I am a beginner too :)
