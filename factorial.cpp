@@ -2,17 +2,19 @@
 using namespace std;
 
 
-long long factorial(long long n)
+long long factorial(int n)
 {
-    if (n == 0)
-        return 1;
-    return n * factorial(n - 1);
+    long long fact = 1;
+    for(int i = 2 ; i <= n; i++){
+        fact = fact * i;
+    }
+    return fact;
 }
 
 // Driver code
 int main()
 {
-    long long num ;
+    int num ;
     cout<<"Enter the number: ";
     cin>>num;
     cout << "Factorial of " << num << " is " << factorial(num) << endl;
